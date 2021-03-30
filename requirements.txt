@@ -80,7 +80,7 @@ pyexcel==0.5.15
 pyexcel-io==0.5.20
 pyexcel-webio==0.1.4
 pyexcel-xls==0.5.8
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==1.4.2
 pylint==2.4.4
 pyrsistent==0.15.7
